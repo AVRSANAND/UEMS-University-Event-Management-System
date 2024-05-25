@@ -1,0 +1,44 @@
+{
+  "clubs": [
+    {
+      "name": "ACM Club",
+      "category": ["coding", "workshop"]
+    },
+    {
+      "name": "CYSEC Club",
+      "category": ["coding", "workshop"]
+    },
+    {
+      "name": "GUSAC Club",
+      "category": ["cultural", "workshop"]
+    },
+    {
+      "name": "Cricket Club",
+      "category": "sport"
+    },
+    {
+      "name": "Football Club",
+      "category": "sport"
+    },
+    {
+      "name": "BasketBall Club",
+      "category": "sport"
+    },
+    {
+      "name": "Art Club",
+      "category": "cultural"
+    },
+    {
+      "name": "Chess Club",
+      "category": "indoor-sport"
+    },
+    {
+      "name": "Carrom Club",
+      "category": "indoor-sport"
+    },
+    {
+      "name": "TableTennis Club",
+      "category": "indoor-sport"
+    }
+  ]
+}
