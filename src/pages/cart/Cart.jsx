@@ -70,8 +70,8 @@ function Cart() {
     // Razor Pay Payment Options
 
     var options = {
-      key: "rzp_test_1wVuH2Ika7mq6e",
-      key_secret: "BSf7APeuRYhlMWQuBSL4l1dI",
+      key: "RAZOR_PAY API KEY",
+      key_secret: "RAZOR_PAY API SECRET KEY",
       amount: parseInt(grandTotal * 100),
       currency: "INR",
       order_receipt: "order_receipt_id_" + name,
